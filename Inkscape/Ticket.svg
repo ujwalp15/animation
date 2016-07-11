@@ -50,7 +50,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="283.75284"
-     inkscape:cy="575.04106"
+     inkscape:cy="466.34661"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,94 +80,94 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.127;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.5000001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4515)"
+       style="opacity:0.12700004;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4515)"
        id="rect3338"
        width="620.31927"
        height="861.74786"
-       x="84.527863"
+       x="64.527855"
        y="72.202568" />
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98809521"
        id="rect3342"
        width="612.85712"
        height="118.61751"
-       x="88.258942"
+       x="68.258942"
        y="75.219345"
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.74701309px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98809522;"
-       x="272.03015"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.74701309px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98809521"
+       x="246.15431"
        y="126.65361"
        id="text3344"
        sodipodi:linespacing="125%"
        transform="scale(0.77292243,1.2937909)"><tspan
          sodipodi:role="line"
          id="tspan3346"
-         x="272.03015"
+         x="246.15431"
          y="126.65361">SHOW TICKET</tspan></text>
     <circle
-       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98809522"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98809521"
        id="path3348"
-       cx="394.6875"
-       cy="297.36221"
-       r="25" />
+       cx="374.6875"
+       cy="290.21936"
+       r="17.857143" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="259.7438"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="239.7438"
        y="412.36221"
        id="text3350"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3352"
-         x="259.7438"
+         x="239.7438"
          y="412.36221">The Actors Collective</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Italic';letter-spacing:0px;word-spacing:0px;fill:#55d400;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98809522;"
-       x="345.95093"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Italic';letter-spacing:0px;word-spacing:0px;fill:#55d400;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98809521"
+       x="325.95093"
        y="463.79074"
        id="text3354"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3356"
-         x="345.95093"
+         x="325.95093"
          y="463.79074">presents</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.73598862px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98809522;"
-       x="230.3223"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.73598862px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98809521"
+       x="206.78163"
        y="486.00256"
        id="text3358"
        sodipodi:linespacing="125%"
        transform="scale(0.84959364,1.1770333)"><tspan
          sodipodi:role="line"
          id="tspan3360"
-         x="230.3223"
+         x="206.78163"
          y="486.00256">THE BOOK OF</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.28575134px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#55d400;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98809522;opacity:0.83;"
-       x="227.27296"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.28575134px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;opacity:0.82999998;fill:#55d400;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98809521"
+       x="203.78485"
        y="607.12225"
        id="text3362"
        sodipodi:linespacing="125%"
        transform="scale(0.85149443,1.1744058)"><tspan
          sodipodi:role="line"
          id="tspan3364"
-         x="227.27296"
+         x="203.78485"
          y="607.12225">POETRY</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98809522;"
-       x="249.62402"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.98809521"
+       x="229.62402"
        y="812.36218"
        id="text3366"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3368"
-         x="249.62402"
+         x="229.62402"
          y="812.36218">A Body Theatre Presentation</tspan></text>
   </g>
 </svg>
